@@ -18,7 +18,7 @@ namespace CountryMVC
             for (int i = 0; i < Countries.Count; i++)
             {
                 c = Countries[i];
-                Console.WriteLine($"{i}: {c.Name}");
+                Console.WriteLine($"{i+1}: {c.Name}");
             }
         }
     }

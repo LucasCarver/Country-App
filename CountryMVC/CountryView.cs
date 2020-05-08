@@ -13,7 +13,7 @@ namespace CountryMVC
         }
         public void Display()
         {
-            Console.WriteLine("Here's your country's info: ");
+            Console.WriteLine("Here's your country's info: \n");
 
             Console.Write($"Name: {DisplayCountry.Name}\nContinent: {DisplayCountry.Continent}\nColors: ");
 

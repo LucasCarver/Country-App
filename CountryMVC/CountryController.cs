@@ -25,21 +25,24 @@ namespace CountryMVC
         public void WelcomeAction()
         {
             CountryListView clv = new CountryListView(CountryDb);
-            Console.WriteLine("Hello, and welcome to the country app.\n\nPlease select a country from the following list:");
+            Console.WriteLine("Hello, and welcome to the country app.\n\n");
+
             while (true)
             {
                 Country output;
                 string input;
+                Console.WriteLine("Please select a country from the following list:\n");
                 clv.Display();
+                Console.WriteLine();
                 try
                 {
-                    input = UserInput.PromptUser("Which country would you like to learn about?");
+                    input = UserInput.PromptUser($"Which country would you like to learn about? 1-{CountryDb.Count}");
                     int index = int.Parse(input);
-                    output = clv.Countries[index];
+                    output = clv.Countries[index - 1];
                 }
                 catch
                 {
-                    Console.WriteLine("Invalid input detected. Please try again.");
+                    Console.WriteLine("Invalid input detected. Please try again.\n");
                     continue;
                 }
                 CountryAction(output);
