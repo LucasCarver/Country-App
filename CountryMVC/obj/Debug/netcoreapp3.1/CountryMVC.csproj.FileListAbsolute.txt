@@ -1,0 +1,11 @@
+C:\Users\imWUMPUS\source\repos\CSharp_April2020\CountryMVC\CountryMVC\bin\Debug\netcoreapp3.1\CountryMVC.exe
+C:\Users\imWUMPUS\source\repos\CSharp_April2020\CountryMVC\CountryMVC\bin\Debug\netcoreapp3.1\CountryMVC.deps.json
+C:\Users\imWUMPUS\source\repos\CSharp_April2020\CountryMVC\CountryMVC\bin\Debug\netcoreapp3.1\CountryMVC.runtimeconfig.json
+C:\Users\imWUMPUS\source\repos\CSharp_April2020\CountryMVC\CountryMVC\bin\Debug\netcoreapp3.1\CountryMVC.runtimeconfig.dev.json
+C:\Users\imWUMPUS\source\repos\CSharp_April2020\CountryMVC\CountryMVC\bin\Debug\netcoreapp3.1\CountryMVC.dll
+C:\Users\imWUMPUS\source\repos\CSharp_April2020\CountryMVC\CountryMVC\bin\Debug\netcoreapp3.1\CountryMVC.pdb
+C:\Users\imWUMPUS\source\repos\CSharp_April2020\CountryMVC\CountryMVC\obj\Debug\netcoreapp3.1\CountryMVC.csprojAssemblyReference.cache
+C:\Users\imWUMPUS\source\repos\CSharp_April2020\CountryMVC\CountryMVC\obj\Debug\netcoreapp3.1\CountryMVC.AssemblyInfoInputs.cache
+C:\Users\imWUMPUS\source\repos\CSharp_April2020\CountryMVC\CountryMVC\obj\Debug\netcoreapp3.1\CountryMVC.AssemblyInfo.cs
+C:\Users\imWUMPUS\source\repos\CSharp_April2020\CountryMVC\CountryMVC\obj\Debug\netcoreapp3.1\CountryMVC.dll
+C:\Users\imWUMPUS\source\repos\CSharp_April2020\CountryMVC\CountryMVC\obj\Debug\netcoreapp3.1\CountryMVC.pdb
